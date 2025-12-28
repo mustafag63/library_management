@@ -1,0 +1,10 @@
+1,The Great Gatsby,F. Scott Fitzgerald,true
+2,To Kill a Mockingbird,Harper Lee,true
+3,1984,George Orwell,true
+4,Pride and Prejudice,Jane Austen,true
+5,The Catcher in the Rye,J.D. Salinger,true
+6,Harry Potter and the Sorcerer's Stone,J.K. Rowling,true
+7,The Lord of the Rings,J.R.R. Tolkien,true
+8,The Hobbit,J.R.R. Tolkien,true
+9,Brave New World,Aldous Huxley,true
+10,Animal Farm,George Orwell,true
