@@ -12,11 +12,10 @@ Date:           December 2025
 
 GROUP MEMBERS
 --------------------------------------------------------------------------------
-[Student Name]      [Student ID]
-[Student Name]      [Student ID]
-[Student Name]      [Student ID]
+Muhammet Gümüş      2311051021
+Mustafa Göçmen      2311051039
+Tuna Öcal           2311051049
 
-Note: Please add your group members' full names and student IDs above.
 
 ================================================================================
 PROJECT OVERVIEW

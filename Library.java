@@ -1,5 +1,4 @@
 import java.io.*;
-import java.util.Scanner;
 
 // This is the main library system
 // It uses 4 different data structures for different tasks
